@@ -1,0 +1,1 @@
+C:\Users\arday\OneDrive\Masaüstü\teaching\Rust_lessons\Beginner\structs_and_enums_3\target\debug\structs_and_enums_3.exe: C:\Users\arday\OneDrive\Masaüstü\teaching\Rust_lessons\Beginner\structs_and_enums_3\src\main.rs

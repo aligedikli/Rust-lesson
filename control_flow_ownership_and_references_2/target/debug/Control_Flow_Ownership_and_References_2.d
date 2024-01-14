@@ -1,0 +1,1 @@
+C:\Users\arday\OneDrive\Masaüstü\teaching\Rust_lessons\Beginner\control_flow_ownership_and_references_2\target\debug\control_flow_ownership_and_references_2.exe: C:\Users\arday\OneDrive\Masaüstü\teaching\Rust_lessons\Beginner\control_flow_ownership_and_references_2\src\main.rs
